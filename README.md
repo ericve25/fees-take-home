@@ -1,7 +1,6 @@
 Initial setup:
 ```
-git clone https://github.com/kofile/ko-take-home-solutions.git
-cd crs/fee-calculator/ericve25
+git clone https://ericve25@bitbucket.org/ericve25/kofile-take-home.git
 npm install
 ```
 
