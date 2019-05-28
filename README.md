@@ -1,3 +1,5 @@
+Please see challenge.md for original take home instructions.
+
 Initial setup:
 ```
 git clone https://ericve25@bitbucket.org/ericve25/kofile-take-home.git
