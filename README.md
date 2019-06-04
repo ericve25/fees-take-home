@@ -2,7 +2,7 @@ Please see challenge.md for original take home instructions.
 
 Initial setup:
 ```
-git clone https://ericve25@bitbucket.org/ericve25/kofile-take-home.git
+git clone https://github.com/ericve25/fees-take-home.git
 npm install
 ```
 
